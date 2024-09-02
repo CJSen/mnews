@@ -1,0 +1,5 @@
+{
+  "mnews_api_key": "your api key", #从该平台免费获取https://www.alapi.cn/api/view/93
+  "mnews_type": "image", # 返回的早报形式，默认图片。可选：image，text
+  "keywords": ["早报", "mnews"] # 触发关键字，列表形式，可多个。
+}
